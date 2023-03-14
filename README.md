@@ -10,16 +10,19 @@ O material deste repositório é usado em disciplinas de nível técnico e super
 
 Em particular:
 
-* *PG5100 Enterpriseprogrammering 1*: introduction to enterprise programming. 
+* *PWEB124 PROGRAMAÇÃO WEB - 01 *: Nível Superior. 
    Documentation [here](doc/intro/main.md).
 
-* *PG6100 Enterpriseprogrammering 2*: advanced enterprise programming.
+* *MACDSIPWEB2 - PROGRAMAÇÃO WEB (2022 .1 - 922A)*: Nível Técnico.
    Documentation [here](doc/advanced/main.md). 
    
+* *MACDSIPWEB2 - PROGRAMAÇÃO WEB (2022 .1 - 922B)*: Nível Técnico.
+   Documentation [here](doc/advanced/main.md). 
+
+* *MAC69WEB24 - PROGRAMAÇÃO WEB II (2022 .1 - 924A)*: Nível Técnico.
+   Documentation [here](doc/advanced/main.md). 
 
 
-
--- 
 
 
 
