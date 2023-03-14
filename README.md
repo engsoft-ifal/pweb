@@ -15,5 +15,26 @@ Em particular:
 
 * *PG6100 Enterpriseprogrammering 2*: advanced enterprise programming.
    Documentation [here](doc/advanced/main.md). 
+   
 
- 
+
+
+-- 
+
+
+
+
+
+### Licença e Direitos Autorais
+
+Os materiais aqui contidos são todos Copyright (c) de [Leonardo Fernandes](https://www.linkedin.com/in/leofernandesmo/) 
+e [constribuidores](TODO).
+Este material foi e é produzido enquanto trabalho no IFAL/Maceió.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+<img alt="Creative Commons License" style="border-width:0" 
+src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+<br />
+The documentation is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+
+
